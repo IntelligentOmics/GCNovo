@@ -1,0 +1,4 @@
+2025-05-18 13:50:49,348 [INFO] __main__: denovo mode
+2025-05-18 13:50:49,348 [INFO] data_reader: input spectrum file: ./data/9species/high.bacillus.PXD004565/spectrum.mgf
+2025-05-18 13:50:49,348 [INFO] data_reader: input feature file: ./data/9species/high.bacillus.PXD004565/features.csv
+2025-05-18 13:50:49,348 [INFO] data_reader: build spectrum location from scratch

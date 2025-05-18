@@ -1,0 +1,10 @@
+2025-05-18 13:51:39,612 [INFO] __main__: denovo mode
+2025-05-18 13:51:39,612 [INFO] data_reader: input spectrum file: ../../data/9species/high.bacillus.PXD004565/spectrum.mgf
+2025-05-18 13:51:39,613 [INFO] data_reader: input feature file: ../../data/9species/high.bacillus.PXD004565/features.csv
+2025-05-18 13:51:39,613 [INFO] data_reader: read cached spectrum locations
+2025-05-18 13:51:41,415 [DEBUG] data_reader: ('FITISNHFPFGMDEGDTDFPAGDFGDSVVDNYFQSAHYIDQSIEQFFNDIKKDGIYDK', 6655.97145) skipped by mass
+2025-05-18 13:51:41,684 [DEBUG] data_reader: ('IGFDSISITQGGSSDHVPFHEAGIDSANFIWGDPETEEVEPWYHTPEDSIEHISK', 6108.77385) skipped by mass
+2025-05-18 13:51:41,686 [DEBUG] data_reader: ('VSESGVESIGFAIPSNDVEPIVDQIIQNGKVDRPFIGVQMIDMSQVPETYQ(+.98)ENTIGIFGDQIGK', 6948.417875) skipped by mass
+2025-05-18 13:51:41,687 [DEBUG] data_reader: ('GIGPVEITVPYAEPTIHVITN(+.98)IIGFTEISREPVEGQGTAVIIESGEGGAATEIHIIER', 6080.167375000001) skipped by mass
+2025-05-18 13:51:41,742 [INFO] data_reader: read 291779 features, 4 skipped by mass, 0 skipped by unknown modification, 0 skipped by length
+2025-05-18 13:51:41,744 [INFO] root: KnapsackSearcher.__init__(): load knapsack matrix
